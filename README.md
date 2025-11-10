@@ -1,23 +1,23 @@
 
 # 👋 Hi there, I'm **Mohamed Agwa**
 
-🚀 **Full-Stack .NET Developer** with hands-on experience in building **scalable**, **secure**, and **high-performance** web applications.  
+ **Full-Stack .NET Developer** with hands-on experience in building **scalable**, **secure**, and **high-performance** web applications.  
 I specialize in crafting **robust APIs**, **scalable backends**, and **enterprise-grade solutions** using **ASP.NET Core**, **C#**, and **SQL Server**.
 
 ---
 
-## 🧰 Technical skills
+##  Technical skills
 
-### 🎨 Frontend  
+###  Frontend  
 `HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `Angular` · `TypeScript`
 
-### ⚙️ Backend  
+###  Backend  
 `C#` · `LINQ` · `Entity Framework` · `ASP.NET Core MVC` · `REST APIs` · `SQL Server`
 
-### 🧩 Concepts  
+###  Concepts  
 `OOP` · `SOLID Principles` · `Design Patterns`
 
-### 🛠️ Tools  
+###  Tools  
 `Git / GitHub` · `Visual Studio` · `Swagger` · `Postman` · `VS Code`
 
 ---
